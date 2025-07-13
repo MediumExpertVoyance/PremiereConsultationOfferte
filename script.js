@@ -1,6 +1,6 @@
 // Variables globales
 let currentStep = 1;
-const totalSteps = 5;
+const totalSteps = 6;
 let formData = {};
 let currentTestimonialIndex = 0;
 const testimonialsPerView = 3;
